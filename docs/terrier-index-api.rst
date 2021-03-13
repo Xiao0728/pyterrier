@@ -1,6 +1,13 @@
 Accessing Terrier's Index API
 -----------------------------
 
+add a commit by Xiao:
+
+  this is a test commit 
+
+
+
+
 
 Once a Terrier index has been built, PyTerrier provides a number of ways to access it. 
 In doing so, we access the standard Terrier index API, however, some types are patched by PyTerrier
